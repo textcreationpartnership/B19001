@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties last declaration to all his loving subjects, especially the inhabitants of the citie of London shewing his royall intentions concerning the finall conclusion of these wars, and an agreement between himselfe and his high court of Parliament.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19001</idno><idno type="EEBO-CITATION">12124139</idno>
+  <idno type="VID">196985</idno>
+  <idno type="EEBO-PROQUEST">2240951863</idno>
+  
+            <idno type="STC">Wing C2364</idno>
+            <idno type="OCLC">12124139</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19001)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196985)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E85, no 26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties last declaration to all his loving subjects, especially the inhabitants of the citie of London shewing his royall intentions concerning the finall conclusion of these wars, and an agreement between himselfe and his high court of Parliament.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ian. 19, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196985:1"/>
+            <pb facs="tcp:196985:1"/>
+            <p>HIS MAIESTIES LAST DECLARATION TO All his loving Subjects, especially the Inhabitants of the Citie of LONDON:</p>
+            <p>Shewing his Royall intentions con<g ref="char:EOLhyphen"/>cerning the finall conclusion of these wars, and an agreement between Himselfe and his High Court of <hi>Parliament.</hi>
+            </p>
+            <p>Published by the true Copie.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Iohn Wilson. Ian.</hi> 19. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196985:2"/>
+            <pb n="3" facs="tcp:196985:2"/>
+            <head>His Majesties last Declaration to all His loving Subjects, especially to the Inhabitants of the Citie of <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>EE have so often declared our Roy<g ref="char:EOLhyphen"/>all intentions to this purpose, to all our loving Subjects, that it might seeme an unnecessarie work, to ite<g ref="char:EOLhyphen"/>rate that which hath so frequently beene delivered in our former Ex<g ref="char:EOLhyphen"/>presses, did not the urgencie of the affaire prompt Us to beleeve, that We can never take too much care or paines in uttering, or putting any endevour in practise, that may be conducible to the finishing of these calamitous and inhumane civill wars, which have so long raigned amongst our Subjects, that should they continue in the same height and violence some moneths longer, We should have but a few Subjects to go<g ref="char:EOLhyphen"/>verne, be as it were a King w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thout people, at least with<g ref="char:EOLhyphen"/>out the hearts and affections of our people, which link them in the tye of obedience to their Soveraigne. And ne<g ref="char:EOLhyphen"/>ver Soveraigne could enjoy a more loving and obedient
+<pb n="4" facs="tcp:196985:3"/> people than We were blest withall, till these raging distem<g ref="char:EOLhyphen"/>pers and unfortunate breaches between Our Selfe and Par<g ref="char:EOLhyphen"/>liame<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> altered them f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Us.</p>
+            <p>Sin<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ch alteratio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd dissension, We see (an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not without ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeding troubl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and anguish of minde) many of Our good Subjects robbed and deprived, both of their lives and es<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and yet are u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rly disabled to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fford them relief or favour, We behold the d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly miseri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and ever to be la<g ref="char:EOLhyphen"/>ment<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ue the bloody <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> steps of this unnaturall Civill War, which hath spred it selfe contagiously through all parts of Our Dominions. The North parts of Our Kingdome have had their share of afflictions, from the Armies that have been busie in all parts thereof, and yet are not removed thence. The Westerne Counties have suffered under the same heavie hand of War. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he middle of Our Kingdome in its very center beheld two ad<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>se Armies, both of this Nation, imbruing their swords in one anothers bloods. And the remotest Provinces of this Re<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me, <hi>Corn<g ref="char:EOLhyphen"/>wall</hi> and <hi>Devon-shire,</hi> cannot boast themselves cleare from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hese distracting and destructive tumults. For these places where Our Army and the Parliaments have <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their winter residence, they have had, and so are likely to have, a greater share in these misfortunes then any other of the mentioned Provinces, as their daily complaints do testifie; wherein they expect and desire redresse from Us, which for the present We cannot afford them.</p>
+            <p>We also (to Our further disturbance and griefe of heart) have daily before Our eyes, the many notorious schismes, and remark<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ours, that through the licenciousnesse of these times are <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Church, and the service of Al<g ref="char:EOLhyphen"/>mighty God, which <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not performed now with that de<g ref="char:EOLhyphen"/>cencie and reverence <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had wont to be, according to the ancient and confirmed C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons of the Church of <hi>England,</hi> and its orthodox Doctrine, but according to the <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ese and invention of every mans braine, that will endevour innova<g ref="char:EOLhyphen"/>tion
+<pb n="5" facs="tcp:196985:3"/> and unknowne principles in Religion, which is now of no value with divers of the basest of this people: which contempt of the divine Worsh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p must needs occasion Gods heavie wrath and continued vengeance on this Nation, so long time heretofore blest with the constancie, and as it were a perpetuity of benefits and testimony of heavens bounty, more then any of the neighbouring Kingdomes.</p>
+            <p>Wee cannot also but resent (and that with much distur<g ref="char:EOLhyphen"/>bance) Our owne particular and personall afflictions; Our deare Consort the Queen (by whom We have been blest with as hopefull and numerous a progeny as most of the Kings of <hi>England</hi> Our Ancestors) being separated from Our sight and societie, Our selfe driven (as Wee may say) from Our Palace at <hi>White-hall,</hi> and so forced to abide far distant from Our owne royall mansions.</p>
+            <p>But this is not the greatest of Our distractions; the cause of all these troubles must needs be more offensive to Us then their effects: namely, this so fatall and lasting difference betweene Our selfe and Our high Court of Parliament, from which (being the superlative Councell of this Our Kingdome, and so the chiefe staffe on which We ought to leane in all Our troubles) We are unfortunatly divided, to Our owne sorrow and disturbance, to the great weakning of Our credit abroad with Our neighbours, and Our strength at home with Our Subjects, to the impeachment of their proceedings in the hard and doubtfull affaires of the Kingdome, to the hinderance of the constitution of good new lawes, and performance of the old ones. In sine, to the generall offence and griefe of all Our people, which have smarted deeply for this division betwixt Us. In consideration of all which grievances, and moved with the tender bowells of compassion towards all Our good Subjects, We cannot but with all Our heart desire a sudden and faire Accomodation of peace betwixt Our Selfe and Our high Court of Parliament, that all these
+<pb n="6" facs="tcp:196985:4"/> emergent and eminent troubles may find a speedy period and be forgotten▪ that the Word of God may be true<g ref="char:EOLhyphen"/>ly propagated throughout all Our Dominions; that the knowne Lawes of the L<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d (confirmed by the great <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>har<g ref="char:EOLhyphen"/>ter of Our royall Progenitors, and by Our owne bounty, to Our subjects) may be ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tained in their accustomed order, that new ones also may be by Us, with the ad<g ref="char:EOLhyphen"/>vice of Our Parliament instituted and enacted; that the peoples property and liberty may be defended (which hath alwayes beene Our royall intention) from any diminu<g ref="char:EOLhyphen"/>tion or disturbance; that these two Armies which now lay waste the beauties and glories of Our Kingdome may be disbanded, or imployed as Wee shall thinke fit, with the advice of Our Parliament, for the reduction of Our Kingdome of <hi>Ireland</hi> (now in open and actuall rebellion) to the pristine obedience, that it hath so long time paid to Our English Scepter: and finally, that unity, peace and concord may be restored to all our Dominions, and the Inhabitants of them.</p>
+            <p>Wee d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hereby declare, and freely i<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>imate Our de<g ref="char:EOLhyphen"/>terminate intentions to all Our good Subj<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts, especially, to Our capitall City of <hi>London,</hi> which hath of late ear<g ref="char:EOLhyphen"/>nestly petitioned Us for Our returne in person thither, and conjunction with Our high Court of Parliament; that as well in regard of the former eminent evills scattered through Our Kingdome, and for the prevention of fu<g ref="char:EOLhyphen"/>ture, and consummation of the present distraction; as al<g ref="char:EOLhyphen"/>so in respect of the humble Petition of that Our said Ci<g ref="char:EOLhyphen"/>ty of <hi>Lon<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the entire and earnest desires of divers other of Our <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Counties to the same ef<g ref="char:EOLhyphen"/>fect, Wee sh<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with Our utmost endevours, as farre as Wee can possibly with Our honour and the digni<g ref="char:EOLhyphen"/>ty of a King, strive to advance and set forward the spee<g ref="char:EOLhyphen"/>dy treaty of an Accomodation of peace betweene Our Selfe and Our high Court of Parliament; and that Wee
+<pb n="7" facs="tcp:196985:4"/> will be at all times ready to imbrace and entertaine all Propositions which shall arrive to Us from Our Parlia<g ref="char:EOLhyphen"/>ment, for the furthering of the said pious and profitable purpose of peace, which Wee know must at last be the onely balme that can be po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red in, to heale the wounds of the bleeding and almost expiring Common-wealth, that hath now too long drooped under these heavie af<g ref="char:EOLhyphen"/>flictions.</p>
+            <p>Wee doe hereby further declare, That no counsells or perswasions of any Malignants or ill affected persons what<g ref="char:EOLhyphen"/>soever, shall have power to deter or alter Us from Our setled and determinate purpose, the cries of Our people which have so often pierced Our eares, having a louder voyce, and more powerfull over Our intentions, and af<g ref="char:EOLhyphen"/>fections, then all the advices of those who seeke to di<g ref="char:EOLhyphen"/>vert Us from a faire concordance with Our high Court of Parliament, whom We doubt not, will be as ready for the advancement of Our affaires and the good of Our people, to wave and forget all remembrance of former discords and dissentions betwixt Us, as Wee in Our royall care and affection to them and all Our subjects shall be prone, with all Our endevours to entertaine all the motions that shall in reason be propounded by them for the effecting the said good and great worke of tranquillity and unity betwixt Us: We desiring no longer to injoy any happi<g ref="char:EOLhyphen"/>nesse on earth, then Wee shall study the good and pro<g ref="char:EOLhyphen"/>sperity of all Our loving Subjects, the maintaining the pri<g ref="char:EOLhyphen"/>viledges of Our Parliament, and the propagation of Gods true Religion and verity, against all Schismes and Popery, throughout all Our Realme of <hi>England,</hi> and Our other Dominions.</p>
+            <p>Finally, We doe declare and signifie to all Our good Subjects, that as We are by birth and lawfull succession appointed by Heaven to rule and governe this people, that We shall, both during the continuance of these warres, strive as much as in Us lies to protect them, their estates
+<pb n="8" facs="tcp:196985:5"/> and families, from all injury and oppression that may here<g ref="char:EOLhyphen"/>after befall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem through the violence and insolence of Our so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers, to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epra<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e which We have We are cer<g ref="char:EOLhyphen"/>taine, omitted no good <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Institu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; And here<g ref="char:EOLhyphen"/>after, when it shall ple<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e God in his great mercy to give an end to the distempers betweene Us and Our High <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rt of Parliament (which We hope will shortly ensue by a faire and confirmed peace) Wee shall then labour to keepe and preserve, both from forraigne and domestick troubles and disturbances, that this Kingdome may againe flourish in the same perpetuity of blessings and wealth, that it hath formerly done, to Our owne increase of honour, and the prosperity of all Our people.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
